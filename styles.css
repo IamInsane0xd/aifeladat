@@ -9,7 +9,7 @@ body
   color: white;
   font-family: Geneva, sans-serif;
   user-select: none;
-  cursor: nesw-resize;
+  cursor: wait;
 }
 
 p
